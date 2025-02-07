@@ -25,7 +25,7 @@ An Augmented Reality (AR) experience that showcases six major tech domains with 
 To get the project up and running locally on mobile device, follow these steps:
 
 - Ensure you have an AR supported android device. (for installing .apk file)
-- install the .apk file on your android phone (the .apk file can be found in Releases in the repo page).
+- install the .apk file on your android phone (the .apk file can be found in Releases tab: [AR Poster](https://github.com/savia-sark/Ar-Poster/releases/tag/v1.0) in the Github Repo).
 - bring the photo of Poster(from Prerequisites folder) in front of camera in app while running.
 
 ### Setting up Working Environment:
